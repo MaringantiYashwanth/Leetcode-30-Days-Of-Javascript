@@ -1,7 +1,6 @@
 # Leetcode-30-Days-Of-Javascript
 30 Days of Javascript Challenge from Leetcode website.
-**Day 1**
-Exciting concepts
+**Day 1 Exciting concepts**
 - Anonymous functions
 - Immediately invoked function expression (IIFE)
 - Functions within functions
